@@ -187,15 +187,15 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   botonCalcular: {
-    backgroundColor: '#28bb25ff',
+    backgroundColor: '#2563bbff',
     padding: 15,
     borderRadius: 10,
     flex: 1,
     marginRight: 10,
     alignItems: 'center',
-  },
+  }, 
   botonReset: {
-    backgroundColor: '#42417cff',
+    backgroundColor: '#aeaeaeff',
     padding: 15,
     borderRadius: 10,
     flex: 1,
